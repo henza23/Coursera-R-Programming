@@ -1,2 +1,2 @@
 # Coursera-R-Programming
- introductory R programmimg from Coursera
+ introductory R programming from Coursera
